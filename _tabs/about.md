@@ -10,5 +10,31 @@ order: 4
 # MIT License
 ---
 
+# **HyunWoo Jo**
 
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
+---
+
+resume CV - TBD
+
+# **Current interest**
+
+---
+
+- DDD (Domain-Driven Design)
+- Java Spring
+- Apache Kafka
+- Deep Learning
+
+# **Education**
+
+---
+
+**Korea University**, Seoul, Korea 
+- **B.S. in Computer Science & Engineering** (GPA : 4.12 / 4.5), Mar 2014 – Feb 2020
+- **National Graduate Science & Technology Scholarship**, Mar 2014 – Feb 2020
+
+
+# **Career**
+
+---
+**Naver**, Backend-Engineer, Jan 2020 -
